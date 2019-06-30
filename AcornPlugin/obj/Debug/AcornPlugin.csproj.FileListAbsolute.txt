@@ -1,0 +1,11 @@
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\OTAPI.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\TerrariaServer.exe
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\TShockAPI.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\AcornPlugin.csproj.CoreCompileInputs.cache
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\AcornPlugin.csproj.CopyComplete
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\AcornPlugin.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\AcornPlugin.pdb
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\AcornPlugin.csprojAssemblyReference.cache
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\AcornPlugin.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\AcornPlugin.pdb

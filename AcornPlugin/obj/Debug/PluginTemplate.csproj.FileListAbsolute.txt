@@ -1,0 +1,11 @@
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\PluginTemplate.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\PluginTemplate.pdb
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\OTAPI.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\TerrariaServer.exe
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\TShockAPI.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\PluginTemplate.csprojAssemblyReference.cache
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\PluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\PluginTemplate.csproj.CopyComplete
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\PluginTemplate.dll
+C:\Users\S\Downloads\PluginTemplate-master\PluginTemplate-master\PluginTemplate\obj\Debug\PluginTemplate.pdb
